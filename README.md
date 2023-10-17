@@ -16,7 +16,8 @@ Then input `python main.py` in your terminal to run the code,the output will be 
 # Output
 (model only be trained one epoch since it really cost my computation resource)
 
-![target](./"images/1_target.gif")
+![target](https://github.com/usamimeri/ConvLSTMPytorch/blob/main/images/1_target.gif)
+![output](https://github.com/usamimeri/ConvLSTMPytorch/blob/main/images/1_output.gif)
 
-![output](./"images/1_output.gif")
+
 
