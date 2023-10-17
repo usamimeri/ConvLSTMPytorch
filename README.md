@@ -14,10 +14,11 @@ If you want to run main.py ,first download MovingMnist from https://www.cs.toron
 Then enter `python main.py` in your terminal to run the code,the output will be put into the folder `output_images`
 
 # Output
-(model only be trained one epoch since it really cost my computation resource)
+(model only be trained two epoch since it really cost my computation resource)
 
 ![target](https://github.com/usamimeri/ConvLSTMPytorch/blob/main/images/1_target.gif)
 ![output](https://github.com/usamimeri/ConvLSTMPytorch/blob/main/images/1_output.gif)
 
-
+![target](https://github.com/usamimeri/ConvLSTMPytorch/blob/main/images/2epoch_1_target_.gif)
+![output](https://github.com/usamimeri/ConvLSTMPytorch/blob/main/images/2epoch_1_output_.gif)
 
