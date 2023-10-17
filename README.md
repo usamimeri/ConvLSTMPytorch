@@ -14,8 +14,9 @@ If you want to run main.py ,first download MovingMnist from https://www.cs.toron
 Then input `python main.py` in your terminal to run the code,the output will be put into the folder `output_images`
 
 # Output
-(model only be trained one epoch as it really cost my computation resource)
+(model only be trained one epoch since it really cost my computation resource)
 
-![img1](./"images/1_output.gif")
+![target](./"images/1_target.gif")
 
-![img1](./"images/1_target.gif")
+![output](./"images/1_output.gif")
+
