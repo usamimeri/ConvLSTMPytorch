@@ -11,7 +11,7 @@ The idea behind states_dict is to maintain only relevant states. For example, ea
 you can`from convLSTM import ConvLSTM2d` it is like how we use nn.Conv2d
 
 If you want to run main.py ,first download MovingMnist from https://www.cs.toronto.edu/~nitish/unsupervised_video/mnist_test_seq.npy
-Then input `python main.py` in your terminal to run the code,the output will be put into the folder `output_images`
+Then enter `python main.py` in your terminal to run the code,the output will be put into the folder `output_images`
 
 # Output
 (model only be trained one epoch since it really cost my computation resource)
