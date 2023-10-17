@@ -15,5 +15,7 @@ Then input `python main.py` in your terminal to run the code,the output will be 
 
 # Output
 (model only be trained one epoch as it really cost my computation resource)
-[img1](./"output_images/1_output.gif")
-[img1](./"output_images/1_target.gif")
+
+![img1](./"output_images/1_output.gif")
+
+![img1](./"output_images/1_target.gif")
